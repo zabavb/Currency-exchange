@@ -9,7 +9,6 @@
 
 <h2>Project Details</h2>
 <ul>
-  <li><strong>Repository Name:</strong> Currency Exchange</li>
   <li><strong>Languages:</strong> 
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
