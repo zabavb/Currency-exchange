@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Currency_x0020_Exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Currencys>
+    <Currency BuyRate="1" SellRate="1">UAH</Currency>
+    <Currency BuyRate="36.569" SellRate="37.453">USD</Currency>
+    <Currency BuyRate="38.53" SellRate="40">EUR</Currency>
+  </Currencys>
+</Currency_x0020_Exchange>
