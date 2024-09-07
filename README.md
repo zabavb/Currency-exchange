@@ -44,7 +44,7 @@
 <p>To run this project, clone the repository and open it using Microsoft Visual Studio. Build and run the application to see it in action.</p>
 
 <pre><code>
-git clone https://github.com/your-username/currency-exchange.git
+https://github.com/zabavb/Currency-exchange.git
 </code></pre>
 
 <pre><code>
