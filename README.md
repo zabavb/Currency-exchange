@@ -24,7 +24,13 @@
       <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
     </a>
   </li>
-  <li><strong>Project Type:</strong> Empty Console App</li>
+  <li><strong>Project Type:</strong> 
+  Console App 
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio?pivots=dotnet-7-0" target="_blank">
+    <img src="https://img.shields.io/badge/.NET%20Framework-5C2D91?style=flat&logo=dot-net&logoColor=white" alt=".NET Framework">
+  </a>
+</li>
+
 </ul>
 
 
